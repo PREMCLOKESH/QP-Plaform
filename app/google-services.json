@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777315268700",
+    "project_id": "nmamit-qps-dae36",
+    "storage_bucket": "nmamit-qps-dae36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777315268700:android:13d2e95901aa7707adce99",
+        "android_client_info": {
+          "package_name": "com.nmamit.nmamitqp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777315268700-tacjklfp67qnc7mjgn6lmbjsm917cqa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWxsJbwOholLOolz10EDxlXa_MvOHCoJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777315268700-tacjklfp67qnc7mjgn6lmbjsm917cqa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
